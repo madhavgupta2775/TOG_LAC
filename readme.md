@@ -12,6 +12,10 @@ You need to have python installed on your machine to run this script. If you don
 -> Download the script
 simply download the script.py file or clone the repository if you want. 
 
+command for cloning:
+
+    git clone https://github.com/madhavgupta2775/TOG_LAC.git
+
 ### Find the http request for liking any chapter of TOG
 This might be a bit complicated for people who have never tried web development. Still, with the instructions provided, it's pretty simple.
 
