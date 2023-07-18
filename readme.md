@@ -1,7 +1,7 @@
 # Like all chapters of Tower of God!
 
 Hello fellow TOG enjoyers!
-Ever felt like you want to support TOG by liking all the chapters of the webtoon but found it to tiresome?
+Ever felt like you want to support TOG by liking all the chapters of the webtoon but found it too tiresome?
 I did too! So, I made a script to automate it!
 
 ### Requirements
