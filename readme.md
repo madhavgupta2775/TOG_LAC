@@ -6,6 +6,11 @@ I did too! So, I made a script to automate it!
 
 For any queries/issues contact me on discord: username: iviip display name: nannu
 
+### Disclaimer!
+This might be considered as DDoS if you try to like a lot of chapters in one go. I've added a limit of max 30 chapters in one go. It is also advised to not run the script multiple times in one go. 
+
+<b> USE AT YOUR OWN RISK!!! </b>
+
 ### Requirements
 You need to have python installed on your machine to run this script. If you don't already it's pretty simple and you can find many tutorials for the same.
 
