@@ -52,6 +52,7 @@ And the difficult part is over! Good job!!
 -> Find the Directory/Folder in which you downloaded the script file. Right Click on the folder and you'll see an option to open it in terminal. Click on it.
 
 -> run the command:
+
     python3 script.py
 If you get some error then try running the command without the '3'. If the issue persists, then there is some other problem. Contact me.
 
