@@ -4,6 +4,8 @@ Hello fellow TOG enjoyers!
 Ever felt like you want to support TOG by liking all the chapters of the webtoon but found it too tiresome?
 I did too! So, I made a script to automate it!
 
+For any queries/issues contact me on discord: username: iviip display name: nannu
+
 ### Requirements
 You need to have python installed on your machine to run this script. If you don't already it's pretty simple and you can find many tutorials for the same.
 
