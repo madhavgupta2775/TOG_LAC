@@ -7,7 +7,9 @@ I did too! So, I made a script to automate it!
 For any queries/issues contact me on discord: username: iviip display name: nannu
 
 ### Disclaimer!
-This might be considered as DDoS if you try to like a lot of chapters in one go. I've added a limit of max 30 chapters in one go. It is also advised to not run the script multiple times in one go. 
+I've added a limit of max 30 chapters in one go so the rate of requests is not bad. Still, it might be considered as DDoS if you try to like a lot of chapters in one go.  It is also advised to not run the script multiple times simultaneously. 
+
+Usage of this script for any malicious or unauthorized activities, such as launching DDoS attacks or causing harm to systems, is strictly prohibited. The creator of this script is not responsible for any misuse or damage resulting from its use.
 
 <b> USE AT YOUR OWN RISK!!! </b>
 
