@@ -7,7 +7,7 @@ I did too! So, I made a script to automate it!
 For any queries/issues contact me on discord: username: iviip display name: nannu
 
 ### Disclaimer!
-This script uses web scraping at a very low rate to like all chapters. The requests are sent <b>one by one</b> for each chapter with a pause as the server takes some time to respond and because of other factors like network latency etc. For me, it takes around 1 second per chapter.
+This script uses web scraping at a very low rate to like all chapters. The requests are sent <b>one by one</b> for each chapter with a pause as the server takes some time to respond and because of other factors like network latency etc. For me, it takes around 1 second per chapter. Hence it won't add any considerable load to their servers.
 Still just to be safe I've added a limit of max 50 chapters per run (not like it makes any difference because the request rate is slow and doesn't depend on the number of chapters). It is adivised to not run the script multiple times simultaneously.
 
 Usage of this script for any malicious or unauthorized activities, such as launching DDoS attacks or causing harm to systems, is strictly prohibited. The creator of this script is not responsible for any misuse or damage resulting from its use.
