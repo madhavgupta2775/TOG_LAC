@@ -3,11 +3,7 @@ import requests
 # python script to like all chapters of tower of god
 
 start_chapter = int(input("Start Chapter: "))
-end_chapter = int(input("End Chapter (not more than 50 chapters to like): "))
-
-if end_chapter - start_chapter > 50:
-    print("Too many chapters to like")
-    exit()
+end_chapter = int(input("End Chapter: "))
 
 input_start = start_chapter
 
